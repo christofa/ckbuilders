@@ -13,7 +13,12 @@
 - CKBdebugger
 
 ### Proof of Work
-Week1/Screenshots/image.png
+![Proof of Work Screenshot](Week1/Screenshots/image.png)
+
+
+
+
+
 
 
 
