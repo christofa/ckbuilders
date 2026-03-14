@@ -35,9 +35,9 @@
 
 ### Proof of Work
 
-![Screenshot 1](../screenshots/Screenshot%202026-03-14%20084101.png)
-
 ![Screenshot 2](../screenshots/Screenshot%202026-03-14%20084515.png)
+
+![Screenshot 1](../screenshots/Screenshot%202026-03-14%20084101.png)
 
 ![Screenshot 3](../screenshots/Screenshot%202026-03-14%20105426.png)
 
