@@ -35,9 +35,11 @@
 
 ### Proof of Work
 
-![Proof of Work Screenshot](../Screenshots/image.png)
+![Screenshot 1](../screenshots/Screenshot%202026-03-14%20084101.png)
 
+![Screenshot 2](../screenshots/Screenshot%202026-03-14%20084515.png)
 
+![Screenshot 3](../screenshots/Screenshot%202026-03-14%20105426.png)
 
 ### Observation/Challenges 
 The transfer script command syntax seen in the documentation ($env:NETWORK="devnet") performs on Mac & Linux and doesn't run the same way on Windows, so I had to use the PowerShell syntax instead: $env:NETWORK="devnet"; npm run transfer
