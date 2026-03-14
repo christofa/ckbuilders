@@ -1,4 +1,4 @@
-# Day 1 - March 12, 2026
+# Day 2 - March 12, 2026
 
 ## Topic: Introduction to Nervos CKB
 
