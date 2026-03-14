@@ -8,6 +8,12 @@
 - CKB stores knowledge/data on chain permanently
 - offCKB works in my development environment jsut like create-react-app or vite
 - Scripts in CKB are smart contracts (programs that run on the blockchain)
+- The parts of a script (code_hash, hash_type, args) and their usages
+- The two types of scripts ( Lockscript and Typescript) and their comparisons
+- Cell and the structure of cells
+- Live cells and Dead cells and their functions
+- learnt about the CKB-VM and how they work
+- Finally, look into cycles and how they function with the CKB-VM
 
 ### Todays task
 - Transfer CKB (the native coin if the network)
@@ -28,3 +34,7 @@
 - exercises/simple-transfer/index.html → page shell
 
 ### Proof of Work
+
+
+### Observation/Challengs 
+The transfer script command syntax seen in the documentation ($env:NETWORK="devnet") performs on Mac & Linux and dosen't run the same way on windows, so I had to use the powershell syntax instead: $env:NETWORK="devnet"; npm run transfer
