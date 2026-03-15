@@ -35,10 +35,13 @@
 
 ### Proof of Work
 
+Server Running:
 ![Screenshot 2](../screenshots/Screenshot%202026-03-14%20084515.png)
 
+Transfer UI:
 ![Screenshot 1](../screenshots/Screenshot%202026-03-14%20084101.png)
 
+Transfer Successful:
 ![Screenshot 3](../screenshots/Screenshot%202026-03-14%20105426.png)
 
 ### Observation/Challenges 
