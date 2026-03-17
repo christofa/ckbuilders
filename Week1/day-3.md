@@ -26,7 +26,7 @@ tx Hash: 0xbe51216f39663818cded322a27409292bfde30f36810a4ac49bdf7efe6bb31de
 ### Proof of Work
 
 - Project running:
-<img width="960" height="540" alt="Screenshot 2026-03-17 025418" src="https://github.com/user-attachments/assets/1f9a4733-83af-45a1-9a21-79115e1d2028" />
+![Screenshot 4](../screenshots/Screenshot%202026-03-17%20025418.png)
 
 
 - When the Write button is clicked:
