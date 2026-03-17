@@ -28,12 +28,11 @@ tx Hash: 0xbe51216f39663818cded322a27409292bfde30f36810a4ac49bdf7efe6bb31de
 - Project running:
 ![Screenshot 4](../screenshots/Screenshot%202026-03-17%20025418.png)
 
-
 - When the Write button is clicked:
-![Screenshot 4](../screenshots/Screenshot%202026-03-17%20025606.png)
+![Screenshot 5](../screenshots/Screenshot%202026-03-17%20025606.png)
 
 - When the Read button is clicked:
-![Screenshot 4](../screenshots/Screenshot%202026-03-17%20025627.png)
+![Screenshot 6](../screenshots/Screenshot%202026-03-17%20025627.png)
 
 ### Challenges
 - I encountered 2 TypeScript bugs (null error) in the index.tsx file, so I fixed it by adding ! after container and txHash to tell TypeScript these values are guaranteed to exist at that point.
