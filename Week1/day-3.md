@@ -10,7 +10,8 @@
 - CKB stores data as hex bytes, not just as plain text
 - An empty cell costs 61 CKB for just its structure
 
-
+### Today's Task 
+- Store Data on Cell
 
 ### What I did
 - Read through the store-data-on-cell doc 
