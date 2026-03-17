@@ -30,32 +30,37 @@ tx Hash: 0xbe51216f39663818cded322a27409292bfde30f36810a4ac49bdf7efe6bb31de
 
 
 - When the Write button is clicked:
-
+![Screenshot 4](../screenshots/Screenshot%202026-03-17%20025606.png)
 
 - When the Read button is clicked:
+![Screenshot 4](../screenshots/Screenshot%202026-03-17%20025627.png)
 
 ### Challenges
 - I encountered 2 TypeScript bugs (null error) in the index.tsx file, so I fixed it by adding ! after container and txHash to tell TypeScript these values are guaranteed to exist at that point.
 
 - Bug 1:
-``` Before
+``` 
+// Before
 const container = document.getElementById("root");
 const root = createRoot(container)
 ```
 
-``` After
+``` 
+// After
 const container = document.getElementById("root")!;
 const root = createRoot(container)
 ```
 
 Bug 2:
-``` Before 
+``` 
+// Before 
 onClick={() => {
   readOnChainMessage(txHash);
 }}
 ```
 
-``` After
+``` 
+// After
 onClick={() => {
   readOnChainMessage(txHash!);
 }}
