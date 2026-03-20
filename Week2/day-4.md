@@ -1,4 +1,4 @@
-# Day 1 - March 16, 2026
+# Day 4 - March 16, 2026
 
 ## Creating Tokens on CKB
 
