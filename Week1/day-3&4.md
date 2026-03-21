@@ -1,4 +1,4 @@
-# Day 3 - March 13, 2026
+# Day 3 & 4 - March 16, 2026 & March 17, 2026
 
 ## Storing Data on CKB
 
