@@ -20,7 +20,6 @@
 - Put the read button to read the message back from the chain
 
 
-
 ### Hash
 tx Hash: 0xbe51216f39663818cded322a27409292bfde30f36810a4ac49bdf7efe6bb31de
 
