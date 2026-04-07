@@ -15,7 +15,7 @@
 - Witnesses are signatures proving you own the input cells
 
 ### What i did 
-- Fiinished The CKB basic practical operation course
+- Finished The CKB basic practical operation course
 - Manually created a fresh CKB transaction from scratch 
 - Signed the transaction using my MetaMask connected wallet 
 - Sucessfully made a transaction to CKB testnet
