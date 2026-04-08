@@ -5,20 +5,20 @@
 ### What I learnt
 - Revised about the concept of CKB cells
 - Learnt about the live cells and how they work
-- Understood CellDeps: They points the CKB-VM to where the script codes to run can be found
-- A fresh transaction consist of version, cellDeps, headerDeps, inputs, outputs, outputsData and witnesses
-- The verson is always 0x0 on CKB 
+- Understood CellDeps: They point the CKB-VM to where the script code to run can be found
+- A fresh transaction consists of version, cellDeps, headerDeps, inputs, outputs, outputsData, and witnesses
+- The version is always 0x0 on CKB 
 - The headerDeps is usually empty
 - The inputs are where live cells are being consumed
-- The outputes are where new cells are beinig created
+- The outputs are where new cells are being created
 - The outputsData are data stored in each output cell
 - Witnesses are signatures proving you own the input cells
 
-### What i did 
-- Finished The CKB basic practical operation course
+### What I did 
+- Finished the CKB basic practical operation course
 - Manually created a fresh CKB transaction from scratch 
-- Signed the transaction using my MetaMask connected wallet 
-- Sucessfully made a transaction to CKB testnet
+- Signed the transaction using my MetaMask-connected wallet 
+- Successfully made a transaction to the CKB testnet
 
 ### My Transaction Details:
 
