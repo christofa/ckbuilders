@@ -7,7 +7,7 @@
 - Project Setup and Understanding 
 
 ### Objective:
-- To create a decentralized application that stores messages (data) on the Nervos blockchain system. The project covers key concepts: Cells, Data field, Transactions, Capacity Usage.
+- To create a decentralized application that stores messages (data) on the Nervos blockchain system. The project covers key concepts: Cells, Data field, Transactions, and Capacity Usage.
 
 ### The Projects Flow:
 - The User types a message
@@ -25,7 +25,7 @@
 - Initialization of a CKB client
 - Connecting to CKB
 - Transaction structure on a blockchain
-- The relationship between front end and blockchain
+- The relationship between front-end and blockchain
 
 ### Proof of Work
 ![Screenshot 14](../screenshots/Screenshot%202026-04-11%20025654.png)
