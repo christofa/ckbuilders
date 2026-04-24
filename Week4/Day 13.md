@@ -14,17 +14,17 @@ Day 13 - 16th, April 2026
 xUDT is a superstructure that relies on sUDT
 - How sUDT works
 - The minimal validation model:
-    - The whole sUDT security mechanism depends on just one simple principle "The total number of tokens flowing IN should be equal to the total number of tokens flowing OUT." It is known as token conservation.
-- I learnt about minting tokens and its principle:
+    - The whole sUDT security mechanism depends on just one simple principle: "The total number of tokens flowing IN should be equal to the total number of tokens flowing OUT." It is known as token conservation.
+- I learnt about minting tokens and their principle:
     - Where there are zero input cells containing a certain type of token, it suggests that the creation of new tokens is taking place.
-- During the minting process, ths convservation rule doesn't apply, that is how the token issuer create the initial supply. After making that supply, the conservation law holds true
+- During the minting process, the conservation rule doesn't apply; that is how the token issuer creates the initial supply. After making that supply, the conservation law holds true
 and cannot be bypassed to make additional tokens.
-- Learnt how sUDTtokens are identified with their unique ID stored in the type args field. The ID is the hash of the issuer's lock script
+- Learnt how sUDT tokens are identified with their unique ID stored in the type args field. The ID is the hash of the issuer's lock script
 
 ### What I did 
 - I navigated the CCC docs 
 - Found the xUDT playground tool 
-- Setup the CKB live playground 
+- Set up the CKB live playground 
 - Connected your wallet 
 - Issued a real token on testnet 
 
