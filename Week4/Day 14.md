@@ -11,15 +11,15 @@ Day 14 - 17th, April 2026
 such as Rust and C, in JavaScript-only environments. 
 - WebAssembly behaves like a universal
 translator; you can program in any language, run anywhere.
-- Learnt How WASM fits into CKB
+- Learnt how WASM fits into CKB
 - Found out you can run a WASM interpreter (ckb-js-vm) inside CKB-VM. This lets you write contracts in JavaScript or TypeScript, which get compiled and executed through that interpreter.
-- Had to do a deeper research and i found out that whenever you develop a contract in TypeScript, such as I have done in past projects:
+- Had to do deeper research and I found out that whenever you develop a contract in TypeScript, such as I have done in past projects:
     - It executes THROUGH the ckb-js-vm virtual machine
     - More cycles required (~4M for the same signature check)
     - 4 times costlier compared to Rust
-    - Simplest to code — uses regular syntax and npm ecosystem
+    - Simplest to code — uses regular syntax and the npm ecosystem
     - Perfect for beginners, prototypes, and less mission-critical contracts
-- Looked into why cycles counting matters
+- Looked into why cycle counting matters
 - More cycles mean higher computation costs in CKB. More cycles translate to higher transaction costs. While this does not affect a contract that executes itself occasionally, an extra 4 times the cycle translates to 4 times the expense for a contract executing itself many times daily.
 
 
