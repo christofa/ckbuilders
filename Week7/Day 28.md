@@ -1,0 +1,51 @@
+# Day 28 - 29 : May 7th, 2026 - May 8th, 2026
+
+## ContestLedger — Building the Frontend (Part 2)
+
+### What i did
+- Built Contest Detail page
+- Built Submission page
+- Built User Profile page
+- Built Login and Sign Up pages
+- Completed all 6 core pages + auth pages
+- Deployed the project
+
+
+- Contest Detail page: shows the full details of the registered contest, the name, the timestamp, the leadboard, the live vote counts, reward amount and a few other things
+
+- The Submission page: this page allows users to upload their contest details, it can support image, video, and text creation and your content will be stored permanently on IPFS and will also require a wallet connection after submission is reviewed
+
+- Login/Sign Up page: this project uses dual auth approach as the intention is to onboard both non-crypto and crypto users. so you can login/signup with your wallet or use your email/password.
+
+- User profile: just shows full data of the users, registered contests, total amount of rewards won, Transaction hash for each reward (on-chain proof), spore DOB certificates 
+
+
+### The big three lessons i learnt
+1. Blockchain UX design is focused on establishing trust
+Everything that was designed this week could be boiled down to one thing:
+"How can we make the user feel safe?"
+The treasury lock badge, the IPFS message, and the on-chain proof badge
+were implemented to give an affirmative response to that question.
+
+2. CKB's Cells align well with the UI component architecture
+One page corresponded to one Cell type:
+- Create Contest -> Contest Cell
+- Submit Entry -> Entry Cell
+- My Certificates -> DOB Winner Cell
+
+
+3. Designing the frontend first was the right choice for a dApp
+Implementing all the UI components without writing even a single line of blockchain code helped focus on the actual user requirements.
+When implementing the smart contract logic next week, I will know precisely which data each transaction should provide.
+
+### Proof of Work
+
+![Screenshot 15](../screenshots/Screenshot%202026-05-14%20062221.png)
+
+![Screenshot 15](../screenshots/Screenshot%202026-05-14%20062403.png)
+
+![Screenshot 15](../screenshots/Screenshot%202026-05-14%20062940.png)
+
+
+### Deployed site
+https://contestledger.vercel.app/
