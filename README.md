@@ -8,7 +8,7 @@ This repository contains a development learning log and exercise notes for the C
 - `exercises/` — practice files, coding challenges, or sample projects.
 - `screenshots/` — visual reference images for completed work or classroom examples.
 
-## How to Use This Repo
+## How to Use This Repo 
 
 1. Open the relevant week folder to review notes from that part of the course.
 2. Read daily markdown files for summaries, learnings, and task breakdowns.
