@@ -2,7 +2,7 @@
 
 ## Topic: Introduction to Nervos CKB
 
-### What I learned:
+### What I Learned
 - Nervos CKB is a Layer 1 blockchain
 - The goal is to be a secure base layer for decentralized applications
 - CKB stores knowledge/data on the chain permanently
@@ -15,10 +15,10 @@
 - learnt about the CKB-VM and how they work
 - Finally, look into cycles and how they function with the CKB-VM
 
-### Today's task
+### Today's Task
 - Transfer CKB (the native coin of the network)
 
-### What I did
+### What I Did
 - Studied scripts, cells, CKB-VM, and cycles from the CKB handbook
 - Set up my existing hello-world project
 - Set up the simple-transfer exercises, files, and configurations in the existing project
@@ -44,5 +44,5 @@ Transfer UI:
 Transfer Successful:
 ![Screenshot 3](../screenshots/Screenshot%202026-03-14%20105426.png)
 
-### Observation/Challenges 
+### Challenges
 The transfer script command syntax seen in the documentation ($env:NETWORK="devnet") performs on Mac & Linux and doesn't run the same way on Windows, so I had to use the PowerShell syntax instead: $env:NETWORK="devnet"; npm run transfer

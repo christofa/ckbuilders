@@ -2,7 +2,7 @@
 
 ## Sending a CKB Transaction Manually 
 
-### What I learnt
+### What I Learned
 - Revised about the concept of CKB cells
 - Learnt about the live cells and how they work
 - Understood CellDeps: They point the CKB-VM to where the script code to run can be found
@@ -14,7 +14,7 @@
 - The outputsData are data stored in each output cell
 - Witnesses are signatures proving you own the input cells
 
-### What I did 
+### What I Did
 - Finished the CKB basic practical operation course
 - Manually created a fresh CKB transaction from scratch 
 - Signed the transaction using my MetaMask-connected wallet 
@@ -70,8 +70,8 @@
 }
 ```
 
-### Tx hash
-tx_hash: 0x6e410268491acedb9b9a7f0e063e4974b9900ef4ff6dd0a924392ea719d6a529
+### Tx Hash
+0x6e410268491acedb9b9a7f0e063e4974b9900ef4ff6dd0a924392ea719d6a529
 
 ### Proof of Work
 ![Screenshot 8](../screenshots/Screenshot%202026-04-03%20043017.png)

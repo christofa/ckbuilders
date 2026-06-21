@@ -1,12 +1,12 @@
-Day 13 - 16th, April 2026
+# Day 13 - 16th, April 2026
 
 ## UDT (User Defined Tokens) + Simple UDT (sUDT)
 
-### What I studied
+### What I Studied
 - Class 3 (UDT)
 - sUDT Standards Document (RFC 0025)
 
-### What I Learnt 
+### What I Learned
 - Brief Recap of UDT and its importance
 - The differences between sUDT and xUDT:
     - sUDT = only has conservation rules
@@ -21,7 +21,7 @@ xUDT is a superstructure that relies on sUDT
 and cannot be bypassed to make additional tokens.
 - Learnt how sUDT tokens are identified with their unique ID stored in the type args field. The ID is the hash of the issuer's lock script
 
-### What I did 
+### What I Did
 - I navigated the CCC docs 
 - Found the xUDT playground tool 
 - Set up the CKB live playground 
@@ -33,5 +33,5 @@ and cannot be bypassed to make additional tokens.
 
 ![Screenshot 17](../screenshots/Screenshot%202026-04-24%20023143.png)
 
-### Tx hash 
-hash: 0x34b2fdb2f651ca3098940fe2ed61b42edb55714d58cbafcca6245807ef861ed2
+### Tx Hash
+0x34b2fdb2f651ca3098940fe2ed61b42edb55714d58cbafcca6245807ef861ed2

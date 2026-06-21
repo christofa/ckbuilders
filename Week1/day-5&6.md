@@ -2,7 +2,7 @@
 
 ## Creating Tokens on CKB
 
-### What I learned
+### What I Learned
 - What tokens are 
 - What fungible means and what fungible tokens are 
 - Just as the Ethereum fungible tokens follow the ERC20 standards, on CKB, the equivalent is called xUDT (Extensible User Defined Tokens)
@@ -14,11 +14,11 @@
   - Permissions 
 
 
-### Today's Task 
+### Today's Task
 - Create a fungible token
 
 
-### What I did
+### What I Did
 - When going through the documentation on creating a fungible token 
 - understood the xUDTs 
 - Set up the create-token exercise inside my project
@@ -26,7 +26,7 @@
 - Checked the token on the Chain UI using the xUDT args
 - Moved some tokens from Account #0 to Account #1
 
-### Proof of Work 
+### Proof of Work
 - Adding a custom amount of Token:
 ![Screenshot 7](../screenshots/Screenshot%202026-03-19%20183616.png)
 
@@ -36,7 +36,10 @@
 - Transferring some tokens to another account:
 ![Screenshot 7](../screenshots/Screenshot%202026-03-19%20192313.png)
 
-Transaction hash: 0x635d9f7dc8437824a9e8cfcac792b66638c29e7d291650e348f3032f45284415
-Token xUDT args: 0x7de82d61a7eb2ec82b0dc653e558ba120efcbfbb44dac87c12972d05bf25065300000000 
+### Tx Hash
+0x635d9f7dc8437824a9e8cfcac792b66638c29e7d291650e348f3032f45284415
+
+### Token xUDT Args
+0x7de82d61a7eb2ec82b0dc653e558ba120efcbfbb44dac87c12972d05bf25065300000000
 
 

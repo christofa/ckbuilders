@@ -2,7 +2,8 @@
 
 ## Storing Data on CKB
 
-### What I learned:- What storing data on the chain means
+### What I Learned
+- What storing data on the chain means
 - How CKB data is stored
 - Why CKB is unique for storing Data
 - Why developers prefer storing data on CKB 
@@ -10,18 +11,18 @@
 - CKB stores data as hex bytes, not just as plain text
 - An empty cell costs 61 CKB for just its structure
 
-### Today's Task 
+### Today's Task
 - Store Data on Cell
 
-### What I did
+### What I Did
 - Read through the store-data-on-cell doc 
 - Set up the store-data-on-cell exercise in my project
 - Inserted a message "Learning CKB is awesome" on my CKB devnet 
 - Put the read button to read the message back from the chain
 
 
-### Hash
-tx Hash: 0xbe51216f39663818cded322a27409292bfde30f36810a4ac49bdf7efe6bb31de
+### Tx Hash
+0xbe51216f39663818cded322a27409292bfde30f36810a4ac49bdf7efe6bb31de
 
 ### Proof of Work
 

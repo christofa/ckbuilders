@@ -2,13 +2,13 @@
 
 ## CKB Fiber Network
 
-### What I studied
+### What I Studied
 - CKB Fiber Network documentation
 - Payment channel mechanics
 - How Fiber differs from Bitcoin Lightning Network
 - How Fiber applies to my Contest Platform project
 
-### What I learnt
+### What I Learned
 - What fiber network actually is 
     - Fiber Network is CKB's layer 2 payment channel that solves the problem of slow and expensive on-chain transactions by allowing the two parties to transact off-chain over a million times before settling everything on-chain with just two transactions. 
 - Learnt how Fiber differs from bitcoin's lightning Network

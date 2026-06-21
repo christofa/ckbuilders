@@ -15,13 +15,13 @@
 - The message is then saved on the CKB blockchain
 - The User now clicks to fetch and display it
 
-### What I did
+### What I Did
 - Created a Next.js app
 - Added @ckb-ccc/core to the project
 - Constructed a simple UI for the input field
 - Configured the app to connect to the CKB Devnet 
 
-### What I Learned:
+### What I Learned
 - Initialization of a CKB client
 - Connecting to CKB
 - Transaction structure on a blockchain
